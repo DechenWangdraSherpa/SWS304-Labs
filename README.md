@@ -1,2 +1,2 @@
-Lab Reports.
+# Lab Reports.
 
