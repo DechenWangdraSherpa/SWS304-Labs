@@ -79,7 +79,7 @@ You are auditing a site and notice a cookie value that starts with `TzoxMzo....`
 
 What common file extension suffix do attackers add to the end of a PHP filename (e.g., `index.php~`) to look for leaked source code backups?
 
-**ANS =>** \~ (tilde)
+**ANS =>** ~ (tilde)
 
 ---
 
@@ -90,7 +90,7 @@ Access `http://MACHINE_IP/case1`. Decode the cookie provided by the site. What i
 <img src="Images/image2.png" width="600"/>
 <img src="Images/image3.png" width="600"/>
 
-**ANS =>** 4
+**ANS =>** 5
 
 ---
 
